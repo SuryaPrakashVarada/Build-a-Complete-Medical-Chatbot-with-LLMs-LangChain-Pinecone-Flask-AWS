@@ -1,0 +1,21 @@
+langchain==0.3.26
+<<<<<<< HEAD
+flask==3.1.1 
+sentence-transformers==4.1.0
+pypdf==5.6.1 
+python-dotenv==1.1.0
+langchain-pinecone==0.2.8 
+langchain-openai==0.3.24
+langchain-community==0.3.26
+-e .
+=======
+flask==3.1.1
+sentence-transformers==4.1.0
+pypdf==5.6.1
+python-dotenv==1.1.0
+langchain-pinecone==0.2.8
+langchain-openai==0.3.24
+langchain-community==0.3.26
+-e .
+
+>>>>>>> 8bc5d313d5b756279f2f196be628d2da6e129a55
